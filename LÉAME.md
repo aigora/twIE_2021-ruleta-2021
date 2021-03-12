@@ -6,7 +6,8 @@ El juego de la Ruleta.
 
 [Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
 Saúl Marcos Molinuevo,  Saul-Marcos
-Jesus alejandro palomino Ortega, jesusalejandropalomino, Javier Sierra de Francisco
+Jesus alejandro palomino Ortega, jesusalejandropalomino
+Javier Sierra de Francisco, jsdefrancisco
 
 ## Objetivos del trabajo
 
