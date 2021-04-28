@@ -1,0 +1,8 @@
+pepe;1234;1233.0
+saul;100;2.0
+eliseo;1234;80000.0
+sandra;1234;100.0
+saul marcos;1234;10000.0
+sandra marcos;1234;100.0
+oscar perpi¤an;oscar;109.0
+oscar;oscar;-1.0
